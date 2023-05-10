@@ -1,4 +1,5 @@
 import os
+import sentry_sdk
 from pathlib import Path
 from dotenv import load_dotenv
 from sentry_sdk.integrations.django import DjangoIntegration
