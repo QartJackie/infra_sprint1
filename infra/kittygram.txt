@@ -1,0 +1,5 @@
+IP: 130.193.52.79;
+name_taski: https://mytaski.hopto.org;
+name_kittygram: https://kittygramweb.hopto.org;
+login: qibjs;
+password: Enp83bN9m;

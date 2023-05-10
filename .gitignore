@@ -146,6 +146,8 @@ media/
 
 # production
 /build
+/frontend/node_modules
+/backend/kittygram
 
 # misc
 .DS_Store
